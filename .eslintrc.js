@@ -11,12 +11,29 @@ module.exports = {
     ecmaVersion: 12,
     sourceType: 'module',
   },
+  settings: {
+    'import/resolver': {
+      node: {
+        extensions: ['.js', '.jsx', '.ts', '.tsx'],
+      },
+    },
+  },
   plugins: [
     'typescript',
     '@typescript-eslint',
   ],
   rules: {
     'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
+    'import/extensions': [
+      'error',
+      'ignorePackages',
+      {
+        js: 'never',
+        jsx: 'never',
+        ts: 'never',
+        tsx: 'never',
+      },
+    ],
     'comma-dangle': [2, 'always-multiline'],
     'no-console': 0, // 不禁用console
     'no-irregular-whitespace': 0, // 不规则的空白不允许
