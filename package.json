@@ -9,7 +9,7 @@
   "scripts": {
     "build": "shx rm -rf lib && tsc -p tsconfig.json --outDir lib",
     "test": "mocha src/index.test.ts -r ts-node/register ",
-    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "format": "prettier --write \"src/**/*.ts\"",
     "lint": "eslint --fix --ext .ts src"
   },
   "devDependencies": {
