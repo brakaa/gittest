@@ -1,9 +1,8 @@
 language: node_js
 node_js:
-  - 12 # 项目环境
-cache: # 缓存 node_js 依赖，提升第二次构建的效率
-  directories:
-    - node_modules
+  - '12'
+install:
+  - npm ci
 script:
   - npm run test
   - npm run lint
