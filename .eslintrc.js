@@ -12,10 +12,10 @@ module.exports = {
     sourceType: 'module',
   },
   plugins: [
+    'typescript',
     '@typescript-eslint',
   ],
   rules: {
-    'react/state-in-constructor': 0,
     'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
     'comma-dangle': [2, 'always-multiline'],
     'no-console': 0, // 不禁用console
