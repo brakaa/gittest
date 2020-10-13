@@ -3,7 +3,8 @@ node_js:
   - '12'
 install:
   - npm install
-  - npm fund
+  - npm install typescript @types/chai @types/mocha @typescript-eslint/eslint-plugin @typescript-eslint/parser chai mocha shx ts-node
+  - npm install eslint eslint-config-airbnb-base eslint-plugin-import
 script:
   - npm run test
   - npm run lint
