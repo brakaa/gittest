@@ -1,0 +1,39 @@
+{
+  "name": "@leetcode-hire/foundations-zh",
+  "version": "1.0.0",
+  "description": "Frontend foundation problem for leetcode-cn.com",
+  "main": "lib/index.js",
+  "repository": "https://github.com/LeetCode-OpenSource/hire",
+  "author": "lynweklm@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "build": "shx rm -rf lib && tsc -p tsconfig.json --outDir lib",
+    "test": "mocha src/index.test.ts -r ts-node/register ",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "eslint --fix --ext .ts src"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.13",
+    "@types/mocha": "^8.0.3",
+    "@typescript-eslint/eslint-plugin": "^4.4.0",
+    "@typescript-eslint/parser": "^4.4.0",
+    "chai": "^4.2.0",
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "mocha": "^8.1.3",
+    "shx": "^0.3.2",
+    "ts-node": "^9.0.0",
+    "typescript": "^3.9.7"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "stylelintIntegration": true,
+    "eslintIntegration": true,
+    "insertPragma": false
+  },
+  "dependencies": {
+    "prettier": "^2.1.2",
+    "tslib": "^1.10.0"
+  }
+}

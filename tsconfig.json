@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "moduleResolution": "node",
+        "target": "esnext",
+        "lib": ["ES6", "DOM", "ES2017"],
+        "module": "commonjs",
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "importHelpers": true,
+        "noEmitHelpers": true,
+        "sourceMap": true
+    }
+}
