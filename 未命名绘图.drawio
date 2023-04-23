@@ -1,23 +1,129 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T02:00:39.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="9HuwbluxpiRnm6izm2lV" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T02:32:58.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="LSMkVbK63hcxUbsC2qqd" version="21.2.1" type="github">
   <diagram name="第 1 页" id="E1eY4ANHaeVtyCAObKsl">
-    <mxGraphModel dx="539" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="449" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#CCCCCC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-p4iHDwquamwSAMxgPk0-5" value="" style="group;labelBorderColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="165" y="630" width="870" height="130" as="geometry" />
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="89" y="580" width="991" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-p4iHDwquamwSAMxgPk0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#2B6A96;" vertex="1" parent="-p4iHDwquamwSAMxgPk0-5">
-          <mxGeometry width="870" height="130" as="geometry" />
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-28" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#76B066;strokeColor=default;gradientColor=none;labelBackgroundColor=none;labelBorderColor=none;dashed=1;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-71">
+          <mxGeometry width="991" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-p4iHDwquamwSAMxgPk0-2" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=19;fontStyle=1;fontColor=#ffffff;labelBackgroundColor=none;fillColor=none;labelBorderColor=none;strokeColor=none;" vertex="1" parent="-p4iHDwquamwSAMxgPk0-5">
-          <mxGeometry x="25" width="120" height="130" as="geometry" />
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-53" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;数据存储中心&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=14;fontStyle=1" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-71">
+          <mxGeometry x="450" y="26.149999999999977" width="180" height="27.69" as="geometry" />
         </mxCell>
-        <mxCell id="-p4iHDwquamwSAMxgPk0-3" value="&lt;font color=&quot;#ffffff&quot;&gt;气象站点监测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="-p4iHDwquamwSAMxgPk0-5">
-          <mxGeometry x="155" y="80" width="120" height="30" as="geometry" />
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-65" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="EjjxS6cKYgv5XmkPnRk7-71" source="EjjxS6cKYgv5XmkPnRk7-64" target="EjjxS6cKYgv5XmkPnRk7-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-p4iHDwquamwSAMxgPk0-7" value="&lt;font color=&quot;#ffffff&quot;&gt;土壤设备监测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="-p4iHDwquamwSAMxgPk0-5">
-          <mxGeometry x="305" y="80" width="120" height="30" as="geometry" />
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-64" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;外部平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=14;fontStyle=1" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-71">
+          <mxGeometry x="181" y="26.149999999999977" width="139" height="27.69" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-67" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Microsoft+YaHei&quot; face=&quot;Microsoft YaHei&quot;&gt;&lt;b&gt;数据接口&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-71">
+          <mxGeometry x="351" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-69" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;外部平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=14;fontStyle=1" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-71">
+          <mxGeometry x="741" y="26.149999999999977" width="139" height="27.69" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-33" value="&amp;nbsp; 数据传输与存储" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=19;fontStyle=1;fontColor=#ffffff;labelBackgroundColor=none;fillColor=none;labelBorderColor=none;strokeColor=none;align=left;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-71">
+          <mxGeometry x="11" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="89" y="680" width="990" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#2B6A96;dashed=1;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
+          <mxGeometry width="990" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="EjjxS6cKYgv5XmkPnRk7-31" source="EjjxS6cKYgv5XmkPnRk7-6" target="EjjxS6cKYgv5XmkPnRk7-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="54" />
+              <mxPoint x="540" y="54" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-6" value="&lt;font color=&quot;#ffffff&quot;&gt;气象站点监测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
+          <mxGeometry x="150" y="73.84615384615385" width="120" height="27.692307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-58" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="EjjxS6cKYgv5XmkPnRk7-31" source="EjjxS6cKYgv5XmkPnRk7-7" target="EjjxS6cKYgv5XmkPnRk7-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="54" />
+              <mxPoint x="540" y="54" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-7" value="&lt;font color=&quot;#ffffff&quot;&gt;土壤设备监测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
+          <mxGeometry x="280" y="73.84615384615385" width="120" height="27.692307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-8" value="&lt;font color=&quot;#ffffff&quot;&gt;地基遥感监测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
+          <mxGeometry x="410" y="73.84615384615385" width="120" height="27.692307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#FFFFFF;" edge="1" parent="EjjxS6cKYgv5XmkPnRk7-31" source="EjjxS6cKYgv5XmkPnRk7-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="55.38461538461539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-9" value="&lt;font color=&quot;#ffffff&quot;&gt;视频设备监控&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
+          <mxGeometry x="540" y="73.84615384615385" width="120" height="27.692307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-60" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="EjjxS6cKYgv5XmkPnRk7-31" source="EjjxS6cKYgv5XmkPnRk7-10" target="EjjxS6cKYgv5XmkPnRk7-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="54" />
+              <mxPoint x="540" y="54" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-10" value="&lt;font color=&quot;#ffffff&quot;&gt;病虫害设备监测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
+          <mxGeometry x="670" y="73.84615384615385" width="120" height="27.692307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-61" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="EjjxS6cKYgv5XmkPnRk7-31" source="EjjxS6cKYgv5XmkPnRk7-11" target="EjjxS6cKYgv5XmkPnRk7-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="54" />
+              <mxPoint x="540" y="54" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-11" value="&lt;font color=&quot;#ffffff&quot;&gt;.......&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
+          <mxGeometry x="800" y="73.84615384615385" width="120" height="27.692307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-18" value="&lt;font color=&quot;#ffffff&quot;&gt;物联网传感器获取数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
+          <mxGeometry x="430" y="9.230769230769232" width="220" height="27.692307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="EjjxS6cKYgv5XmkPnRk7-31" source="EjjxS6cKYgv5XmkPnRk7-8" target="EjjxS6cKYgv5XmkPnRk7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-26" value="&lt;font color=&quot;#ffffff&quot;&gt;测绘、遥感、巡检无人机获取数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
+          <mxGeometry x="160" y="9.230769230769232" width="220" height="27.692307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-27" value="&lt;font color=&quot;#ffffff&quot;&gt;农事及作业相关数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
+          <mxGeometry x="700" y="9.230769230769232" width="220" height="27.692307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-5" value="&amp;nbsp; 数据采集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=19;fontStyle=1;fontColor=#ffffff;labelBackgroundColor=none;fillColor=none;labelBorderColor=none;strokeColor=none;align=left;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
+          <mxGeometry x="10" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-56" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EjjxS6cKYgv5XmkPnRk7-18" target="EjjxS6cKYgv5XmkPnRk7-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="629.1904761904761" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-62" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EjjxS6cKYgv5XmkPnRk7-26" target="EjjxS6cKYgv5XmkPnRk7-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="359" y="650" />
+              <mxPoint x="629" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-63" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="EjjxS6cKYgv5XmkPnRk7-27" target="EjjxS6cKYgv5XmkPnRk7-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="899" y="650" />
+              <mxPoint x="629" y="650" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
