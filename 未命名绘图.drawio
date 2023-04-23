@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T08:05:13.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ptljVeXxyhn_aBMcBtbg" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T08:23:57.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="EmT56ViJJBsrKhtCSuTr" version="21.2.1" type="github">
   <diagram name="第 1 页" id="E1eY4ANHaeVtyCAObKsl">
-    <mxGraphModel dx="1747" dy="816" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#CCCCCC" math="0" shadow="0">
+    <mxGraphModel dx="1856" dy="868" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#CCCCCC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-77" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Microsoft+YaHei&quot; face=&quot;Microsoft YaHei&quot;&gt;&lt;b&gt;数据支持&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-71">
           <mxGeometry x="661" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EjjxS6cKYgv5XmkPnRk7-31" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-31" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="90" y="680" width="990" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#2B6A96;dashed=1;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
@@ -378,7 +378,7 @@
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-220" value="" style="group" vertex="1" connectable="0" parent="EjjxS6cKYgv5XmkPnRk7-219">
           <mxGeometry width="990" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EjjxS6cKYgv5XmkPnRk7-221" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#6466D7;dashed=1;container=1;gradientColor=none;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-220">
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-221" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#34A471;dashed=1;container=1;gradientColor=none;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-220">
           <mxGeometry width="990" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-230" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;智慧综合管理平台&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-221">
