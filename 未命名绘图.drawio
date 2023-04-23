@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T08:29:38.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UVQITGTQswX0NW18VPXT" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T09:19:52.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="T409pme8cM4tQQq16Y3e" version="21.2.1" type="github">
   <diagram name="第 1 页" id="E1eY4ANHaeVtyCAObKsl">
-    <mxGraphModel dx="1291" dy="603" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#CCCCCC" math="0" shadow="0">
+    <mxGraphModel dx="1563" dy="789" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#CCCCCC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="741" y="26.149999999999977" width="139" height="27.69" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-33" value="&amp;nbsp; 数据传输与存储" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=19;fontStyle=1;fontColor=#ffffff;labelBackgroundColor=none;fillColor=none;labelBorderColor=none;strokeColor=none;align=left;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-71">
-          <mxGeometry x="11" width="160" height="80" as="geometry" />
+          <mxGeometry width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-77" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Microsoft+YaHei&quot; face=&quot;Microsoft YaHei&quot;&gt;&lt;b&gt;数据支持&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-71">
           <mxGeometry x="661" y="10" width="60" height="30" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry x="700" y="9.230769230769232" width="220" height="27.692307692307693" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-5" value="&amp;nbsp; 数据采集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=19;fontStyle=1;fontColor=#ffffff;labelBackgroundColor=none;fillColor=none;labelBorderColor=none;strokeColor=none;align=left;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
-          <mxGeometry x="10" width="120" height="120" as="geometry" />
+          <mxGeometry width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-215" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Microsoft+YaHei&quot; face=&quot;Microsoft YaHei&quot;&gt;&lt;b&gt;农事&lt;br&gt;安排&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-31">
           <mxGeometry x="924.0000000000001" y="26" width="60" height="30" as="geometry" />
@@ -138,16 +138,16 @@
           <mxGeometry x="90" y="439" width="990" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-130" value="" style="group" vertex="1" connectable="0" parent="EjjxS6cKYgv5XmkPnRk7-79">
-          <mxGeometry x="-14" width="990" height="120" as="geometry" />
+          <mxGeometry width="990" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-80" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#3685BD;dashed=1;container=1;gradientColor=none;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-130">
-          <mxGeometry x="13" width="990" height="120" as="geometry" />
+          <mxGeometry width="990" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-95" value="&lt;font color=&quot;#ffffff&quot;&gt;产业园土壤墒情检测&lt;br&gt;及改良管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-130">
           <mxGeometry x="823" y="31" width="126" height="58" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-96" value="&amp;nbsp; 功能模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=19;fontStyle=1;fontColor=#ffffff;labelBackgroundColor=none;fillColor=none;labelBorderColor=none;strokeColor=none;align=left;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-130">
-          <mxGeometry x="10" width="120" height="120" as="geometry" />
+          <mxGeometry width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-103" value="&lt;font color=&quot;#ffffff&quot;&gt;产业园采摘预测&lt;br&gt;及采摘管理&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-130">
           <mxGeometry x="684" y="31" width="126" height="58" as="geometry" />
@@ -287,7 +287,7 @@
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-214" value="&lt;font color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Microsoft+YaHei&quot; face=&quot;Microsoft YaHei&quot;&gt;&lt;b&gt;作业&lt;br&gt;反馈&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-134">
           <mxGeometry x="929.92" y="50.17" width="60" height="25.950000000000003" as="geometry" />
         </mxCell>
-        <mxCell id="EjjxS6cKYgv5XmkPnRk7-136" value="智能农事综合&lt;br&gt;管理及应用" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=19;fontStyle=1;fontColor=#ffffff;labelBackgroundColor=none;fillColor=none;labelBorderColor=none;strokeColor=none;align=left;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-133">
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-136" value="智慧应用" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=19;fontStyle=1;fontColor=#ffffff;labelBackgroundColor=none;fillColor=none;labelBorderColor=none;strokeColor=none;align=left;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-133">
           <mxGeometry x="10" width="125" height="172.98119565217397" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-166" value="&lt;font color=&quot;#ffffff&quot;&gt;自动化农事农机及装置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-133">
@@ -380,22 +380,16 @@
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-221" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#34A471;dashed=1;container=1;gradientColor=none;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-220">
           <mxGeometry width="990" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EjjxS6cKYgv5XmkPnRk7-230" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;智慧综合管理平台&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-221">
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-230" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;智能农事综合&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;管理服务&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-221">
           <mxGeometry x="421" y="31" width="195" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="EjjxS6cKYgv5XmkPnRk7-231" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;药材病虫害智能&lt;br&gt;检测服务平台&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-221">
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-231" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;药材病虫害智能&lt;br&gt;检测服务&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-221">
           <mxGeometry x="167.07999999999998" y="31" width="195" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="EjjxS6cKYgv5XmkPnRk7-232" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;startArrow=none;startFill=0;" edge="1" parent="EjjxS6cKYgv5XmkPnRk7-221" source="EjjxS6cKYgv5XmkPnRk7-230" target="EjjxS6cKYgv5XmkPnRk7-231">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EjjxS6cKYgv5XmkPnRk7-222" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;药材种植智能&lt;br&gt;辅助服务平台&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-221">
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-222" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;药材种植智能&lt;br&gt;辅助服务&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-221">
           <mxGeometry x="675.08" y="31" width="195" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="EjjxS6cKYgv5XmkPnRk7-233" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="EjjxS6cKYgv5XmkPnRk7-221" source="EjjxS6cKYgv5XmkPnRk7-230" target="EjjxS6cKYgv5XmkPnRk7-222">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EjjxS6cKYgv5XmkPnRk7-223" value="三个智慧平台" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=19;fontStyle=1;fontColor=#ffffff;labelBackgroundColor=none;fillColor=none;labelBorderColor=none;strokeColor=none;align=left;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-220">
+        <mxCell id="EjjxS6cKYgv5XmkPnRk7-223" value="三个智慧&lt;br&gt;综合服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Microsoft YaHei;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMicrosoft%2BYaHei;fontSize=19;fontStyle=1;fontColor=#ffffff;labelBackgroundColor=none;fillColor=none;labelBorderColor=none;strokeColor=none;align=left;" vertex="1" parent="EjjxS6cKYgv5XmkPnRk7-220">
           <mxGeometry x="10" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EjjxS6cKYgv5XmkPnRk7-234" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=block;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=default;" edge="1" parent="1" source="EjjxS6cKYgv5XmkPnRk7-134" target="EjjxS6cKYgv5XmkPnRk7-221">
